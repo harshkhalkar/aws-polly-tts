@@ -3,6 +3,7 @@
 # **Project Overview**
 
 This project is a Text-to-Speech (TTS) web application built with AWS Polly, Node.js/Express, and a simple HTML frontend. Users can type text, choose the voice (e.g., Matthew, Neural), and download the generated audio file. The app is containerized with Docker for portability and can be deployed securely on AWS EC2 or ECS with IAM roles.
+![IMAGE](public/IMG-203232.png)
 
 # **Features**
 
